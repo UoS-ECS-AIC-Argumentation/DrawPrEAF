@@ -25,12 +25,15 @@ def plot(path, show=True, save=False):
 
     ext = get_extension(path)
     if ext not in SUPPORTED_EXTENSIONS:
-        print(f"Unknown file extension format: {ext}")
+        print(f"Unknown file format: {path}")
         return
 
     peaf = ext == ".peaf"
 
     print(path)
+
+
+
     G = nx.read_edgelist(path, create_using=nx.DiGraph, data=True)
 
     print(G)
