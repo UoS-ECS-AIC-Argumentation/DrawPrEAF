@@ -43,6 +43,8 @@ def plot(path, show=True, save=False):
 
     if peaf:
         labels = nx.get_edge_attributes(G,'weight')
+        for k, v in labels.items():
+            labels[k] = f"{v:.2f}"
         nx.draw_networkx_edge_labels(G,pos, edge_labels=labels)
 
     colors = nx.get_edge_attributes(G,'color').values()
