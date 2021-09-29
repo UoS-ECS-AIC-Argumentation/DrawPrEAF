@@ -1,0 +1,96 @@
+# Query: 3 5 7 11
+15 1 {'color': 'green', 'weight': 0.890799547703451  }
+15 2 {'color': 'green', 'weight': 0.034354328067773166  }
+16 15 {'color': 'green', 'weight': 0.44363985188820687  }
+16 3 {'color': 'green', 'weight': 0.803011962894555  }
+17 16 {'color': 'green', 'weight': 0.009427976145857442  }
+17 4 {'color': 'green', 'weight': 0.8129614847547078  }
+18 17 {'color': 'green', 'weight': 0.6923057831599467  }
+18 5 {'color': 'green', 'weight': 0.7514499026272554  }
+19 18 {'color': 'green', 'weight': 0.22210099318414234  }
+19 6 {'color': 'green', 'weight': 0.9602936576212597  }
+20 19 {'color': 'green', 'weight': 0.42535767759177434  }
+20 7 {'color': 'green', 'weight': 0.23390829068276142  }
+21 20 {'color': 'green', 'weight': 0.4448174876900949  }
+21 8 {'color': 'green', 'weight': 0.6871137950500014  }
+22 21 {'color': 'green', 'weight': 0.6433945058924346  }
+22 9 {'color': 'green', 'weight': 0.25149295568905716  }
+23 22 {'color': 'green', 'weight': 0.6602766828792626  }
+23 10 {'color': 'green', 'weight': 0.4183308555868487  }
+24 23 {'color': 'green', 'weight': 0.12325940739818451  }
+24 11 {'color': 'green', 'weight': 0.1094765668677743  }
+25 24 {'color': 'green', 'weight': 0.7430574542914928  }
+25 12 {'color': 'green', 'weight': 0.7377727775961774  }
+26 25 {'color': 'green', 'weight': 0.8827147181068734  }
+26 13 {'color': 'green', 'weight': 0.28742117552392743  }
+27 26 {'color': 'green', 'weight': 0.8384019511840941  }
+27 14 {'color': 'green', 'weight': 0.8508437711374947  }
+0 1 {'color': 'green', 'weight': 0.5185179252839389  }
+0 2 {'color': 'green', 'weight': 0.22074844124104195  }
+0 3 {'color': 'green', 'weight': 0.8437541039725882  }
+0 4 {'color': 'green', 'weight': 0.40749249015090183  }
+0 5 {'color': 'green', 'weight': 0.516238854121016  }
+0 6 {'color': 'green', 'weight': 0.21505442836480917  }
+0 7 {'color': 'green', 'weight': 0.08881277709450176  }
+0 8 {'color': 'green', 'weight': 0.23540363007695397  }
+0 9 {'color': 'green', 'weight': 0.9747754872110735  }
+0 10 {'color': 'green', 'weight': 0.33927695961515425  }
+0 11 {'color': 'green', 'weight': 0.8295447487748749  }
+0 12 {'color': 'green', 'weight': 0.5412135619041073  }
+0 13 {'color': 'green', 'weight': 0.5595556588202617  }
+0 14 {'color': 'green', 'weight': 0.7909313732122308  }
+0 15 {'color': 'green', 'weight': 0.6847097579466355  }
+0 16 {'color': 'green', 'weight': 0.7738651407673328  }
+0 17 {'color': 'green', 'weight': 0.6824055694127549  }
+0 18 {'color': 'green', 'weight': 0.43200033294361867  }
+0 19 {'color': 'green', 'weight': 0.24213376329071046  }
+0 20 {'color': 'green', 'weight': 0.09957925703745263  }
+0 21 {'color': 'green', 'weight': 0.4432512202663988  }
+0 22 {'color': 'green', 'weight': 0.779065313683021  }
+0 23 {'color': 'green', 'weight': 0.052591798212587304  }
+0 24 {'color': 'green', 'weight': 0.03347629055570023  }
+0 25 {'color': 'green', 'weight': 0.5409834965370539  }
+0 26 {'color': 'green', 'weight': 0.971367543934522  }
+0 27 {'color': 'green', 'weight': 0.9655650801285541  }
+6 3 {'color': 'red'  }
+7 14 {'color': 'red'  }
+13 10 {'color': 'red'  }
+7 2 {'color': 'red'  }
+13 11 {'color': 'red'  }
+2 1 {'color': 'red'  }
+13 12 {'color': 'red'  }
+5 7 {'color': 'red'  }
+8 1 {'color': 'red'  }
+3 14 {'color': 'red'  }
+3 1 {'color': 'red'  }
+6 4 {'color': 'red'  }
+3 2 {'color': 'red'  }
+1 4 {'color': 'red'  }
+5 13 {'color': 'red'  }
+14 11 {'color': 'red'  }
+14 13 {'color': 'red'  }
+6 9 {'color': 'red'  }
+1 9 {'color': 'red'  }
+7 4 {'color': 'red'  }
+2 4 {'color': 'red'  }
+1 13 {'color': 'red'  }
+7 8 {'color': 'red'  }
+10 2 {'color': 'red'  }
+8 4 {'color': 'red'  }
+8 5 {'color': 'red'  }
+9 8 {'color': 'red'  }
+12 14 {'color': 'red'  }
+9 13 {'color': 'red'  }
+10 7 {'color': 'red'  }
+10 9 {'color': 'red'  }
+4 3 {'color': 'red'  }
+10 12 {'color': 'red'  }
+11 6 {'color': 'red'  }
+11 8 {'color': 'red'  }
+11 9 {'color': 'red'  }
+5 3 {'color': 'red'  }
+12 5 {'color': 'red'  }
+14 1 {'color': 'red'  }
+14 2 {'color': 'red'  }
+6 1 {'color': 'red'  }
+12 11 {'color': 'red'  }

@@ -1,0 +1,45 @@
+# Query: 2 5 6 10 11
+12 1 {'color': 'green', 'weight': 0.9509600854109189  }
+12 2 {'color': 'green', 'weight': 0.5963593313356541  }
+13 12 {'color': 'green', 'weight': 0.3622895693766093  }
+13 3 {'color': 'green', 'weight': 0.9608548190977575  }
+14 5 {'color': 'green', 'weight': 0.8938417135542165  }
+14 6 {'color': 'green', 'weight': 0.3180608249129371  }
+15 7 {'color': 'green', 'weight': 0.04457307269209998  }
+15 8 {'color': 'green', 'weight': 0.358047091621105  }
+16 15 {'color': 'green', 'weight': 0.2627049328786102  }
+16 9 {'color': 'green', 'weight': 0.9547980009364114  }
+17 10 {'color': 'green', 'weight': 0.4486683022823797  }
+17 11 {'color': 'green', 'weight': 0.2208090580494602  }
+0 1 {'color': 'green', 'weight': 0.043732626394442975  }
+0 2 {'color': 'green', 'weight': 0.028022475493639232  }
+0 3 {'color': 'green', 'weight': 0.9558239509167229  }
+0 4 {'color': 'green', 'weight': 0.9430589794650467  }
+0 5 {'color': 'green', 'weight': 0.1974167024472272  }
+0 6 {'color': 'green', 'weight': 0.12688899700130574  }
+0 7 {'color': 'green', 'weight': 0.019971104847857912  }
+0 8 {'color': 'green', 'weight': 0.7079097043952741  }
+0 9 {'color': 'green', 'weight': 0.8891613251147694  }
+0 10 {'color': 'green', 'weight': 0.9141162493627217  }
+0 11 {'color': 'green', 'weight': 0.9350437643303372  }
+0 12 {'color': 'green', 'weight': 0.4060476096955466  }
+0 13 {'color': 'green', 'weight': 0.26231833545492145  }
+0 14 {'color': 'green', 'weight': 0.6777321234615622  }
+0 15 {'color': 'green', 'weight': 0.02357655570502315  }
+0 16 {'color': 'green', 'weight': 0.267967441754161  }
+0 17 {'color': 'green', 'weight': 0.2570007373346883  }
+1 2 {'color': 'red'  }
+10 7 {'color': 'red'  }
+6 4 {'color': 'red'  }
+2 1 {'color': 'red'  }
+2 3 {'color': 'red'  }
+6 8 {'color': 'red'  }
+7 2 {'color': 'red'  }
+2 9 {'color': 'red'  }
+11 7 {'color': 'red'  }
+3 4 {'color': 'red'  }
+4 3 {'color': 'red'  }
+7 11 {'color': 'red'  }
+9 2 {'color': 'red'  }
+4 6 {'color': 'red'  }
+5 3 {'color': 'red'  }

@@ -1,0 +1,53 @@
+# Query: 1 12 14 5 6 8 11
+15 1 {'color': 'green', 'weight': 0.9799885816889373  }
+15 2 {'color': 'green', 'weight': 0.3786592394893289  }
+16 3 {'color': 'green', 'weight': 0.8524445087833257  }
+16 4 {'color': 'green', 'weight': 0.6332483952936505  }
+17 16 {'color': 'green', 'weight': 0.8146392005460261  }
+17 5 {'color': 'green', 'weight': 0.27455299855979876  }
+18 6 {'color': 'green', 'weight': 0.8379353512847308  }
+18 7 {'color': 'green', 'weight': 0.5382757325523342  }
+19 18 {'color': 'green', 'weight': 0.282365586352186  }
+19 8 {'color': 'green', 'weight': 0.7090904362497925  }
+20 12 {'color': 'green', 'weight': 0.028524497372950153  }
+20 13 {'color': 'green', 'weight': 0.08362360083562703  }
+0 1 {'color': 'green', 'weight': 0.6865724293578386  }
+0 2 {'color': 'green', 'weight': 0.09405600940604518  }
+0 3 {'color': 'green', 'weight': 0.4088504823404291  }
+0 4 {'color': 'green', 'weight': 0.858368901227006  }
+0 5 {'color': 'green', 'weight': 0.45004038160327087  }
+0 6 {'color': 'green', 'weight': 0.37614893676591854  }
+0 7 {'color': 'green', 'weight': 0.022210526924202775  }
+0 8 {'color': 'green', 'weight': 0.22297706123516448  }
+0 9 {'color': 'green', 'weight': 0.301621056838832  }
+0 10 {'color': 'green', 'weight': 0.33475818890971787  }
+0 11 {'color': 'green', 'weight': 0.9946524159612325  }
+0 12 {'color': 'green', 'weight': 0.8128590386492931  }
+0 13 {'color': 'green', 'weight': 0.3971695920418414  }
+0 14 {'color': 'green', 'weight': 0.4202152235589247  }
+0 15 {'color': 'green', 'weight': 0.9415714418106101  }
+0 16 {'color': 'green', 'weight': 0.6940132723771347  }
+0 17 {'color': 'green', 'weight': 0.5057955251138759  }
+0 18 {'color': 'green', 'weight': 0.008704284574010068  }
+0 19 {'color': 'green', 'weight': 0.8881990692444561  }
+0 20 {'color': 'green', 'weight': 0.20891034898013125  }
+4 5 {'color': 'red'  }
+4 6 {'color': 'red'  }
+8 10 {'color': 'red'  }
+7 14 {'color': 'red'  }
+8 12 {'color': 'red'  }
+3 13 {'color': 'red'  }
+14 7 {'color': 'red'  }
+8 2 {'color': 'red'  }
+6 4 {'color': 'red'  }
+10 8 {'color': 'red'  }
+6 7 {'color': 'red'  }
+13 3 {'color': 'red'  }
+11 7 {'color': 'red'  }
+7 6 {'color': 'red'  }
+7 8 {'color': 'red'  }
+7 9 {'color': 'red'  }
+10 1 {'color': 'red'  }
+2 8 {'color': 'red'  }
+7 13 {'color': 'red'  }
+8 7 {'color': 'red'  }

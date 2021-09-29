@@ -1,0 +1,16 @@
+# Query: 1 2 4
+0 1 {'color': 'green', 'weight': 0.019403263011089637  }
+0 2 {'color': 'green', 'weight': 0.3216902817706545  }
+0 3 {'color': 'green', 'weight': 0.7526231951843033  }
+0 4 {'color': 'green', 'weight': 0.24624174940947097  }
+0 5 {'color': 'green', 'weight': 0.7033254536265767  }
+0 6 {'color': 'green', 'weight': 0.3931750592057133  }
+5 6 {'color': 'red'  }
+6 1 {'color': 'red'  }
+1 5 {'color': 'red'  }
+1 6 {'color': 'red'  }
+2 3 {'color': 'red'  }
+4 5 {'color': 'red'  }
+5 1 {'color': 'red'  }
+5 2 {'color': 'red'  }
+5 4 {'color': 'red'  }

@@ -1,0 +1,47 @@
+# Query: 13 3 4 5 6 7 9 10 11
+14 1 {'color': 'green', 'weight': 0.450677318907755  }
+14 2 {'color': 'green', 'weight': 0.8575303750056767  }
+15 14 {'color': 'green', 'weight': 0.05701838059307107  }
+15 3 {'color': 'green', 'weight': 0.17955661524953093  }
+16 5 {'color': 'green', 'weight': 0.25584799378142453  }
+16 6 {'color': 'green', 'weight': 0.24621332156761722  }
+17 7 {'color': 'green', 'weight': 0.3911550799649602  }
+17 8 {'color': 'green', 'weight': 0.6575251330242249  }
+18 11 {'color': 'green', 'weight': 0.8574026694667197  }
+18 12 {'color': 'green', 'weight': 0.6435852745098684  }
+0 1 {'color': 'green', 'weight': 0.26537323909377397  }
+0 2 {'color': 'green', 'weight': 0.8760036767455813  }
+0 3 {'color': 'green', 'weight': 0.2963862984059794  }
+0 4 {'color': 'green', 'weight': 0.9370596771678664  }
+0 5 {'color': 'green', 'weight': 0.7166720612282416  }
+0 6 {'color': 'green', 'weight': 0.13654635219818145  }
+0 7 {'color': 'green', 'weight': 0.891542224733485  }
+0 8 {'color': 'green', 'weight': 0.2418620725645819  }
+0 9 {'color': 'green', 'weight': 0.02196972555829435  }
+0 10 {'color': 'green', 'weight': 0.7591200706590463  }
+0 11 {'color': 'green', 'weight': 0.8282504131348395  }
+0 12 {'color': 'green', 'weight': 0.3440245739170559  }
+0 13 {'color': 'green', 'weight': 0.6684416753875204  }
+0 14 {'color': 'green', 'weight': 0.23730197425429142  }
+0 15 {'color': 'green', 'weight': 0.76613446572638  }
+0 16 {'color': 'green', 'weight': 0.9559962696644962  }
+0 17 {'color': 'green', 'weight': 0.04666134550941492  }
+0 18 {'color': 'green', 'weight': 0.3646458115497023  }
+3 4 {'color': 'red'  }
+3 5 {'color': 'red'  }
+8 4 {'color': 'red'  }
+4 3 {'color': 'red'  }
+4 7 {'color': 'red'  }
+4 8 {'color': 'red'  }
+4 9 {'color': 'red'  }
+5 3 {'color': 'red'  }
+3 13 {'color': 'red'  }
+4 12 {'color': 'red'  }
+10 5 {'color': 'red'  }
+5 10 {'color': 'red'  }
+1 9 {'color': 'red'  }
+6 4 {'color': 'red'  }
+2 4 {'color': 'red'  }
+11 4 {'color': 'red'  }
+9 1 {'color': 'red'  }
+7 4 {'color': 'red'  }

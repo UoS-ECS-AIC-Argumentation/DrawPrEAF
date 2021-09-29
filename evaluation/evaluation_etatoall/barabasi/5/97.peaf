@@ -1,0 +1,12 @@
+# Query: 2 3 4
+0 1 {'color': 'green', 'weight': 0.2542543467483107  }
+0 2 {'color': 'green', 'weight': 0.8991619082031977  }
+0 3 {'color': 'green', 'weight': 0.7387624684075769  }
+0 4 {'color': 'green', 'weight': 0.38234738966193565  }
+0 5 {'color': 'green', 'weight': 0.094962312856685  }
+1 3 {'color': 'red'  }
+4 1 {'color': 'red'  }
+2 1 {'color': 'red'  }
+4 5 {'color': 'red'  }
+3 1 {'color': 'red'  }
+5 4 {'color': 'red'  }
