@@ -1,0 +1,90 @@
+# Query: 23 14 15 16 17 18 2 4 7 8 9 10 21 11
+24 1 {'color': 'green', 'weight': 0.7050226133626234  }
+24 2 {'color': 'green', 'weight': 0.05161165889153841  }
+25 24 {'color': 'green', 'weight': 0.5853634029239491  }
+25 3 {'color': 'green', 'weight': 0.2307408123101924  }
+26 25 {'color': 'green', 'weight': 0.3101588902688843  }
+26 4 {'color': 'green', 'weight': 0.1328718763168275  }
+27 5 {'color': 'green', 'weight': 0.9708128755378457  }
+27 6 {'color': 'green', 'weight': 0.9919941407164687  }
+28 27 {'color': 'green', 'weight': 0.862664404265966  }
+28 7 {'color': 'green', 'weight': 0.6675433597374839  }
+29 28 {'color': 'green', 'weight': 0.05548507149782589  }
+29 8 {'color': 'green', 'weight': 0.9788846896813999  }
+30 10 {'color': 'green', 'weight': 0.8406824803431855  }
+30 11 {'color': 'green', 'weight': 0.9389107061383951  }
+31 30 {'color': 'green', 'weight': 0.80622566011365  }
+31 12 {'color': 'green', 'weight': 0.6093940330473088  }
+32 14 {'color': 'green', 'weight': 0.8353639009530109  }
+32 15 {'color': 'green', 'weight': 0.5351553948558577  }
+33 32 {'color': 'green', 'weight': 0.16606048841886956  }
+33 16 {'color': 'green', 'weight': 0.3549982049183683  }
+34 20 {'color': 'green', 'weight': 0.7613232293722453  }
+34 21 {'color': 'green', 'weight': 0.5612490036714487  }
+0 1 {'color': 'green', 'weight': 0.858482995028158  }
+0 2 {'color': 'green', 'weight': 0.5920247828419901  }
+0 3 {'color': 'green', 'weight': 0.43982093980243026  }
+0 4 {'color': 'green', 'weight': 0.3762082469914169  }
+0 5 {'color': 'green', 'weight': 0.0028127762265266476  }
+0 6 {'color': 'green', 'weight': 0.10774621676720697  }
+0 7 {'color': 'green', 'weight': 0.7911524651032115  }
+0 8 {'color': 'green', 'weight': 0.727154295222875  }
+0 9 {'color': 'green', 'weight': 0.9505151043295879  }
+0 10 {'color': 'green', 'weight': 0.4498612469790524  }
+0 11 {'color': 'green', 'weight': 0.3984010276696788  }
+0 12 {'color': 'green', 'weight': 0.08927527755140086  }
+0 13 {'color': 'green', 'weight': 0.4377351899289431  }
+0 14 {'color': 'green', 'weight': 0.9331017720368449  }
+0 15 {'color': 'green', 'weight': 0.8995521621387131  }
+0 16 {'color': 'green', 'weight': 0.5625869546257228  }
+0 17 {'color': 'green', 'weight': 0.02414736421001285  }
+0 18 {'color': 'green', 'weight': 0.7190343510650717  }
+0 19 {'color': 'green', 'weight': 0.498343263574795  }
+0 20 {'color': 'green', 'weight': 0.6088436626722904  }
+0 21 {'color': 'green', 'weight': 0.3530285562901433  }
+0 22 {'color': 'green', 'weight': 0.98228803237344  }
+0 23 {'color': 'green', 'weight': 0.2288647787381608  }
+0 24 {'color': 'green', 'weight': 0.4380097662265906  }
+0 25 {'color': 'green', 'weight': 0.9876120596173149  }
+0 26 {'color': 'green', 'weight': 0.5246315909143148  }
+0 27 {'color': 'green', 'weight': 0.8004952249898366  }
+0 28 {'color': 'green', 'weight': 0.6089361429499809  }
+0 29 {'color': 'green', 'weight': 0.6139377526980956  }
+0 30 {'color': 'green', 'weight': 0.874874335978396  }
+0 31 {'color': 'green', 'weight': 0.012375357669084486  }
+0 32 {'color': 'green', 'weight': 0.21313242781361197  }
+0 33 {'color': 'green', 'weight': 0.8861970041807802  }
+0 34 {'color': 'green', 'weight': 0.1798955791495388  }
+11 12 {'color': 'red'  }
+13 7 {'color': 'red'  }
+1 6 {'color': 'red'  }
+20 16 {'color': 'red'  }
+11 16 {'color': 'red'  }
+12 11 {'color': 'red'  }
+11 19 {'color': 'red'  }
+22 13 {'color': 'red'  }
+13 11 {'color': 'red'  }
+13 14 {'color': 'red'  }
+21 3 {'color': 'red'  }
+14 13 {'color': 'red'  }
+10 2 {'color': 'red'  }
+3 13 {'color': 'red'  }
+14 15 {'color': 'red'  }
+5 9 {'color': 'red'  }
+6 1 {'color': 'red'  }
+23 5 {'color': 'red'  }
+4 11 {'color': 'red'  }
+16 11 {'color': 'red'  }
+6 10 {'color': 'red'  }
+3 21 {'color': 'red'  }
+5 11 {'color': 'red'  }
+17 13 {'color': 'red'  }
+18 11 {'color': 'red'  }
+11 4 {'color': 'red'  }
+11 5 {'color': 'red'  }
+5 23 {'color': 'red'  }
+7 13 {'color': 'red'  }
+11 8 {'color': 'red'  }
+10 6 {'color': 'red'  }
+13 22 {'color': 'red'  }
+13 1 {'color': 'red'  }

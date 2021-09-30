@@ -1,0 +1,92 @@
+# Query: 23 13 24 25 15 16 17 18 19 1 4 5 6 8 20 10
+26 1 {'color': 'green', 'weight': 0.43773159644021403  }
+26 2 {'color': 'green', 'weight': 0.9172994377413523  }
+27 26 {'color': 'green', 'weight': 0.4796046180295673  }
+27 3 {'color': 'green', 'weight': 0.9529177750368698  }
+28 27 {'color': 'green', 'weight': 0.9757990581082839  }
+28 4 {'color': 'green', 'weight': 0.7899912126565121  }
+29 28 {'color': 'green', 'weight': 0.04982603930934481  }
+29 5 {'color': 'green', 'weight': 0.18770605406605878  }
+30 9 {'color': 'green', 'weight': 0.7455146313187101  }
+30 10 {'color': 'green', 'weight': 0.7367999711777949  }
+31 11 {'color': 'green', 'weight': 0.8070966315913869  }
+31 12 {'color': 'green', 'weight': 0.8127078670510636  }
+32 15 {'color': 'green', 'weight': 0.9657896965185038  }
+32 16 {'color': 'green', 'weight': 0.46299956606599335  }
+33 32 {'color': 'green', 'weight': 0.2661983057229905  }
+33 17 {'color': 'green', 'weight': 0.7415983827015803  }
+34 20 {'color': 'green', 'weight': 0.9573452234704444  }
+34 21 {'color': 'green', 'weight': 0.23940100683836693  }
+35 34 {'color': 'green', 'weight': 0.4953406427045872  }
+35 22 {'color': 'green', 'weight': 0.6174914927696606  }
+0 1 {'color': 'green', 'weight': 0.5215140895764661  }
+0 2 {'color': 'green', 'weight': 0.18990436355318752  }
+0 3 {'color': 'green', 'weight': 0.3385641248807313  }
+0 4 {'color': 'green', 'weight': 0.17423831498846387  }
+0 5 {'color': 'green', 'weight': 0.3455811286269249  }
+0 6 {'color': 'green', 'weight': 0.9908080212330681  }
+0 7 {'color': 'green', 'weight': 0.5875894123064793  }
+0 8 {'color': 'green', 'weight': 0.19424569063381816  }
+0 9 {'color': 'green', 'weight': 0.6714353578542407  }
+0 10 {'color': 'green', 'weight': 0.7196741182347187  }
+0 11 {'color': 'green', 'weight': 0.06800896722243799  }
+0 12 {'color': 'green', 'weight': 0.9697755237262118  }
+0 13 {'color': 'green', 'weight': 0.8335345370146237  }
+0 14 {'color': 'green', 'weight': 0.3844702851602047  }
+0 15 {'color': 'green', 'weight': 0.5769961752098879  }
+0 16 {'color': 'green', 'weight': 0.7821027561056115  }
+0 17 {'color': 'green', 'weight': 0.12277399972814296  }
+0 18 {'color': 'green', 'weight': 0.7404090899511306  }
+0 19 {'color': 'green', 'weight': 0.7138153600171735  }
+0 20 {'color': 'green', 'weight': 0.7004127748765752  }
+0 21 {'color': 'green', 'weight': 0.8436698268215228  }
+0 22 {'color': 'green', 'weight': 0.9446647887101357  }
+0 23 {'color': 'green', 'weight': 0.5686237175302544  }
+0 24 {'color': 'green', 'weight': 0.41813408588203704  }
+0 25 {'color': 'green', 'weight': 0.316441004747653  }
+0 26 {'color': 'green', 'weight': 0.929605377736896  }
+0 27 {'color': 'green', 'weight': 0.39163102201967537  }
+0 28 {'color': 'green', 'weight': 0.7247408591834598  }
+0 29 {'color': 'green', 'weight': 0.627330781478829  }
+0 30 {'color': 'green', 'weight': 0.45032046187949826  }
+0 31 {'color': 'green', 'weight': 0.554571646592085  }
+0 32 {'color': 'green', 'weight': 0.9393561867877798  }
+0 33 {'color': 'green', 'weight': 0.456062625010141  }
+0 34 {'color': 'green', 'weight': 0.07909615353374633  }
+0 35 {'color': 'green', 'weight': 0.6350623386938076  }
+14 15 {'color': 'red'  }
+12 15 {'color': 'red'  }
+6 4 {'color': 'red'  }
+17 7 {'color': 'red'  }
+11 25 {'color': 'red'  }
+13 15 {'color': 'red'  }
+4 15 {'color': 'red'  }
+15 18 {'color': 'red'  }
+15 21 {'color': 'red'  }
+16 15 {'color': 'red'  }
+15 23 {'color': 'red'  }
+16 17 {'color': 'red'  }
+19 5 {'color': 'red'  }
+5 19 {'color': 'red'  }
+15 1 {'color': 'red'  }
+17 16 {'color': 'red'  }
+15 2 {'color': 'red'  }
+17 20 {'color': 'red'  }
+17 22 {'color': 'red'  }
+25 11 {'color': 'red'  }
+7 17 {'color': 'red'  }
+17 24 {'color': 'red'  }
+19 15 {'color': 'red'  }
+24 17 {'color': 'red'  }
+9 15 {'color': 'red'  }
+20 17 {'color': 'red'  }
+3 7 {'color': 'red'  }
+7 3 {'color': 'red'  }
+21 15 {'color': 'red'  }
+15 4 {'color': 'red'  }
+4 6 {'color': 'red'  }
+15 8 {'color': 'red'  }
+15 9 {'color': 'red'  }
+22 17 {'color': 'red'  }
+11 16 {'color': 'red'  }
+4 10 {'color': 'red'  }

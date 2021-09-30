@@ -1,0 +1,88 @@
+# Query: 12 13 14 15 16 18 4 5 6 9 20 10 21 11
+22 1 {'color': 'green', 'weight': 0.265346227305998  }
+22 2 {'color': 'green', 'weight': 0.38905757202954433  }
+23 3 {'color': 'green', 'weight': 0.3279221853225016  }
+23 4 {'color': 'green', 'weight': 0.9488548045979095  }
+24 5 {'color': 'green', 'weight': 0.9782009253114587  }
+24 6 {'color': 'green', 'weight': 0.8816011832526593  }
+25 8 {'color': 'green', 'weight': 0.39582764112850843  }
+25 9 {'color': 'green', 'weight': 0.19552757038705704  }
+26 11 {'color': 'green', 'weight': 0.5529630041418594  }
+26 12 {'color': 'green', 'weight': 0.05710190910702084  }
+27 26 {'color': 'green', 'weight': 0.23123076170318335  }
+27 13 {'color': 'green', 'weight': 0.6764527780081988  }
+28 27 {'color': 'green', 'weight': 0.5645851839364824  }
+28 14 {'color': 'green', 'weight': 0.4418421429349588  }
+29 28 {'color': 'green', 'weight': 0.707718254916161  }
+29 15 {'color': 'green', 'weight': 0.33436221051015513  }
+30 29 {'color': 'green', 'weight': 0.5212594029753759  }
+30 16 {'color': 'green', 'weight': 0.5843855440900501  }
+31 17 {'color': 'green', 'weight': 0.3328338122840342  }
+31 18 {'color': 'green', 'weight': 0.028480739545704185  }
+32 31 {'color': 'green', 'weight': 0.466387791954458  }
+32 19 {'color': 'green', 'weight': 0.46101483279209443  }
+33 32 {'color': 'green', 'weight': 0.594049597226201  }
+33 20 {'color': 'green', 'weight': 0.3996361865210863  }
+0 1 {'color': 'green', 'weight': 0.020999883990123536  }
+0 2 {'color': 'green', 'weight': 0.1409006396094166  }
+0 3 {'color': 'green', 'weight': 0.9993451916562954  }
+0 4 {'color': 'green', 'weight': 0.3375746881823809  }
+0 5 {'color': 'green', 'weight': 0.2836376187517089  }
+0 6 {'color': 'green', 'weight': 0.8349789911235196  }
+0 7 {'color': 'green', 'weight': 0.8419648036306097  }
+0 8 {'color': 'green', 'weight': 0.15688109802533703  }
+0 9 {'color': 'green', 'weight': 0.857833286550107  }
+0 10 {'color': 'green', 'weight': 0.05928280556995191  }
+0 11 {'color': 'green', 'weight': 0.6078624810222761  }
+0 12 {'color': 'green', 'weight': 0.12916491305465394  }
+0 13 {'color': 'green', 'weight': 0.5121148181660475  }
+0 14 {'color': 'green', 'weight': 0.2556602770487638  }
+0 15 {'color': 'green', 'weight': 0.4167552396735388  }
+0 16 {'color': 'green', 'weight': 0.5575450831151767  }
+0 17 {'color': 'green', 'weight': 0.8813866790306958  }
+0 18 {'color': 'green', 'weight': 0.6871778682575953  }
+0 19 {'color': 'green', 'weight': 0.17438055820144405  }
+0 20 {'color': 'green', 'weight': 0.34643559956658865  }
+0 21 {'color': 'green', 'weight': 0.48154467685156477  }
+0 22 {'color': 'green', 'weight': 0.6488252532110326  }
+0 23 {'color': 'green', 'weight': 0.07611966396188408  }
+0 24 {'color': 'green', 'weight': 0.992517843461274  }
+0 25 {'color': 'green', 'weight': 0.4213365272824332  }
+0 26 {'color': 'green', 'weight': 0.37039043746443334  }
+0 27 {'color': 'green', 'weight': 0.6714000009112595  }
+0 28 {'color': 'green', 'weight': 0.13049882679355307  }
+0 29 {'color': 'green', 'weight': 0.8950108871225162  }
+0 30 {'color': 'green', 'weight': 0.26440652898343053  }
+0 31 {'color': 'green', 'weight': 0.38249200703590513  }
+0 32 {'color': 'green', 'weight': 0.7306691218109329  }
+0 33 {'color': 'green', 'weight': 0.2545533943494912  }
+7 17 {'color': 'red'  }
+10 11 {'color': 'red'  }
+19 12 {'color': 'red'  }
+8 13 {'color': 'red'  }
+10 14 {'color': 'red'  }
+11 10 {'color': 'red'  }
+10 18 {'color': 'red'  }
+11 12 {'color': 'red'  }
+21 10 {'color': 'red'  }
+13 8 {'color': 'red'  }
+9 17 {'color': 'red'  }
+12 19 {'color': 'red'  }
+13 12 {'color': 'red'  }
+15 6 {'color': 'red'  }
+16 1 {'color': 'red'  }
+14 10 {'color': 'red'  }
+3 10 {'color': 'red'  }
+16 5 {'color': 'red'  }
+17 2 {'color': 'red'  }
+15 10 {'color': 'red'  }
+4 11 {'color': 'red'  }
+17 7 {'color': 'red'  }
+20 16 {'color': 'red'  }
+17 9 {'color': 'red'  }
+16 10 {'color': 'red'  }
+10 3 {'color': 'red'  }
+17 16 {'color': 'red'  }
+16 20 {'color': 'red'  }
+18 10 {'color': 'red'  }
+11 4 {'color': 'red'  }

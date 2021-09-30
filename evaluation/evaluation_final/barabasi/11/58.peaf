@@ -1,0 +1,45 @@
+# Query: 2 5 7 9 11
+12 1 {'color': 'green', 'weight': 0.24837204463795504  }
+12 2 {'color': 'green', 'weight': 0.4242208058393397  }
+13 12 {'color': 'green', 'weight': 0.16038979164151404  }
+13 3 {'color': 'green', 'weight': 0.22817711388096618  }
+14 13 {'color': 'green', 'weight': 0.9864935429637692  }
+14 4 {'color': 'green', 'weight': 0.3991982013741755  }
+15 5 {'color': 'green', 'weight': 0.05841233152413494  }
+15 6 {'color': 'green', 'weight': 0.2293432242522051  }
+16 15 {'color': 'green', 'weight': 0.569749445537966  }
+16 7 {'color': 'green', 'weight': 2.778289555516178E-4  }
+17 16 {'color': 'green', 'weight': 0.14744374554428197  }
+17 8 {'color': 'green', 'weight': 0.6388863387562713  }
+0 1 {'color': 'green', 'weight': 0.21554474245420516  }
+0 2 {'color': 'green', 'weight': 0.7008046912919915  }
+0 3 {'color': 'green', 'weight': 0.8939096190965841  }
+0 4 {'color': 'green', 'weight': 0.9351092321947169  }
+0 5 {'color': 'green', 'weight': 0.42895448539020353  }
+0 6 {'color': 'green', 'weight': 0.7116849520690853  }
+0 7 {'color': 'green', 'weight': 0.2846612859949707  }
+0 8 {'color': 'green', 'weight': 0.8801677989278669  }
+0 9 {'color': 'green', 'weight': 0.031586366226525324  }
+0 10 {'color': 'green', 'weight': 0.9348857092860964  }
+0 11 {'color': 'green', 'weight': 0.026482361459051806  }
+0 12 {'color': 'green', 'weight': 0.5601115651342067  }
+0 13 {'color': 'green', 'weight': 0.07603808101097363  }
+0 14 {'color': 'green', 'weight': 0.9245699822965379  }
+0 15 {'color': 'green', 'weight': 0.11501213721304103  }
+0 16 {'color': 'green', 'weight': 0.8003408201584068  }
+0 17 {'color': 'green', 'weight': 0.8789969032273048  }
+1 2 {'color': 'red'  }
+6 2 {'color': 'red'  }
+2 1 {'color': 'red'  }
+2 4 {'color': 'red'  }
+11 3 {'color': 'red'  }
+2 6 {'color': 'red'  }
+7 3 {'color': 'red'  }
+2 8 {'color': 'red'  }
+3 1 {'color': 'red'  }
+2 10 {'color': 'red'  }
+8 2 {'color': 'red'  }
+3 7 {'color': 'red'  }
+4 2 {'color': 'red'  }
+4 5 {'color': 'red'  }
+9 3 {'color': 'red'  }

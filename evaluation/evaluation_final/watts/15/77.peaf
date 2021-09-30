@@ -1,0 +1,106 @@
+# Query: 1 13 2 6
+16 1 {'color': 'green', 'weight': 0.3826485099628655  }
+16 2 {'color': 'green', 'weight': 0.09089192758496334  }
+17 16 {'color': 'green', 'weight': 0.775897606134442  }
+17 3 {'color': 'green', 'weight': 0.5264641487835328  }
+18 4 {'color': 'green', 'weight': 0.28120749953173496  }
+18 5 {'color': 'green', 'weight': 0.6408712717217562  }
+19 18 {'color': 'green', 'weight': 0.1037371871967734  }
+19 6 {'color': 'green', 'weight': 0.537129395842532  }
+20 19 {'color': 'green', 'weight': 0.025760563071946744  }
+20 7 {'color': 'green', 'weight': 0.9771845596964018  }
+21 8 {'color': 'green', 'weight': 0.10739849139324487  }
+21 9 {'color': 'green', 'weight': 0.2310131973941244  }
+22 21 {'color': 'green', 'weight': 0.616554290232622  }
+22 10 {'color': 'green', 'weight': 0.5181828571200766  }
+23 22 {'color': 'green', 'weight': 0.10359045832154057  }
+23 11 {'color': 'green', 'weight': 0.5661755434051994  }
+24 12 {'color': 'green', 'weight': 0.7027447820448195  }
+24 13 {'color': 'green', 'weight': 0.5805559355769013  }
+25 24 {'color': 'green', 'weight': 0.27687863812095515  }
+25 14 {'color': 'green', 'weight': 0.19320216967283443  }
+0 1 {'color': 'green', 'weight': 0.6281598562854  }
+0 2 {'color': 'green', 'weight': 0.8124673200985332  }
+0 3 {'color': 'green', 'weight': 0.35391664922399246  }
+0 4 {'color': 'green', 'weight': 0.2012007052796302  }
+0 5 {'color': 'green', 'weight': 0.3281303060695888  }
+0 6 {'color': 'green', 'weight': 0.11141239640955049  }
+0 7 {'color': 'green', 'weight': 0.18913167777387685  }
+0 8 {'color': 'green', 'weight': 0.7856666276901558  }
+0 9 {'color': 'green', 'weight': 0.4911969298890291  }
+0 10 {'color': 'green', 'weight': 0.005078481529080858  }
+0 11 {'color': 'green', 'weight': 0.8147900667623827  }
+0 12 {'color': 'green', 'weight': 0.04073860743530644  }
+0 13 {'color': 'green', 'weight': 0.23750708199832812  }
+0 14 {'color': 'green', 'weight': 0.14873189007643609  }
+0 15 {'color': 'green', 'weight': 0.12481086492290673  }
+0 16 {'color': 'green', 'weight': 0.8487442727222777  }
+0 17 {'color': 'green', 'weight': 0.7899868116006098  }
+0 18 {'color': 'green', 'weight': 0.9117221348170197  }
+0 19 {'color': 'green', 'weight': 0.6580239147133136  }
+0 20 {'color': 'green', 'weight': 0.9471768025313042  }
+0 21 {'color': 'green', 'weight': 0.1999920478428816  }
+0 22 {'color': 'green', 'weight': 0.9956922716330296  }
+0 23 {'color': 'green', 'weight': 0.4678244150965546  }
+0 24 {'color': 'green', 'weight': 0.7570930009966534  }
+0 25 {'color': 'green', 'weight': 0.9138465504059889  }
+7 3 {'color': 'red'  }
+5 9 {'color': 'red'  }
+2 15 {'color': 'red'  }
+2 1 {'color': 'red'  }
+8 3 {'color': 'red'  }
+5 13 {'color': 'red'  }
+6 9 {'color': 'red'  }
+9 1 {'color': 'red'  }
+15 8 {'color': 'red'  }
+9 2 {'color': 'red'  }
+3 1 {'color': 'red'  }
+6 12 {'color': 'red'  }
+7 5 {'color': 'red'  }
+9 3 {'color': 'red'  }
+15 10 {'color': 'red'  }
+3 2 {'color': 'red'  }
+6 13 {'color': 'red'  }
+7 6 {'color': 'red'  }
+1 5 {'color': 'red'  }
+6 14 {'color': 'red'  }
+15 12 {'color': 'red'  }
+7 11 {'color': 'red'  }
+1 10 {'color': 'red'  }
+4 1 {'color': 'red'  }
+4 2 {'color': 'red'  }
+10 4 {'color': 'red'  }
+8 7 {'color': 'red'  }
+2 8 {'color': 'red'  }
+11 1 {'color': 'red'  }
+8 11 {'color': 'red'  }
+2 11 {'color': 'red'  }
+11 4 {'color': 'red'  }
+8 14 {'color': 'red'  }
+9 7 {'color': 'red'  }
+12 2 {'color': 'red'  }
+9 13 {'color': 'red'  }
+3 12 {'color': 'red'  }
+9 14 {'color': 'red'  }
+10 7 {'color': 'red'  }
+10 8 {'color': 'red'  }
+10 9 {'color': 'red'  }
+13 1 {'color': 'red'  }
+4 9 {'color': 'red'  }
+11 5 {'color': 'red'  }
+4 12 {'color': 'red'  }
+4 14 {'color': 'red'  }
+14 15 {'color': 'red'  }
+11 12 {'color': 'red'  }
+14 3 {'color': 'red'  }
+11 14 {'color': 'red'  }
+12 7 {'color': 'red'  }
+12 10 {'color': 'red'  }
+12 14 {'color': 'red'  }
+13 7 {'color': 'red'  }
+14 7 {'color': 'red'  }
+14 13 {'color': 'red'  }
+5 15 {'color': 'red'  }
+6 3 {'color': 'red'  }
+15 3 {'color': 'red'  }
+7 2 {'color': 'red'  }
