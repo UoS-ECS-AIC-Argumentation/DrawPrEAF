@@ -1,0 +1,45 @@
+# Query: 1 3 4 6 7 8 9 10 11
+12 2 {'color': 'green', 'weight': 0.8957284442331744  }
+12 3 {'color': 'green', 'weight': 0.31692889961975657  }
+13 4 {'color': 'green', 'weight': 0.7610445586167714  }
+13 5 {'color': 'green', 'weight': 0.8402457198604525  }
+14 13 {'color': 'green', 'weight': 0.20191621929043502  }
+14 6 {'color': 'green', 'weight': 0.3348214495447199  }
+15 7 {'color': 'green', 'weight': 0.3025002058612346  }
+15 8 {'color': 'green', 'weight': 0.02231534191778273  }
+16 9 {'color': 'green', 'weight': 0.08497917753501162  }
+16 10 {'color': 'green', 'weight': 0.04756940405590082  }
+17 16 {'color': 'green', 'weight': 0.474923048512029  }
+17 11 {'color': 'green', 'weight': 0.35874085647007864  }
+0 1 {'color': 'green', 'weight': 0.5785751342745893  }
+0 2 {'color': 'green', 'weight': 0.8731178753231017  }
+0 3 {'color': 'green', 'weight': 0.5446424427985449  }
+0 4 {'color': 'green', 'weight': 0.7323217557763055  }
+0 5 {'color': 'green', 'weight': 0.5253018345652642  }
+0 6 {'color': 'green', 'weight': 0.8442399804405492  }
+0 7 {'color': 'green', 'weight': 0.9404565539725405  }
+0 8 {'color': 'green', 'weight': 0.09790222725959341  }
+0 9 {'color': 'green', 'weight': 0.1649249768301133  }
+0 10 {'color': 'green', 'weight': 0.7552003640093373  }
+0 11 {'color': 'green', 'weight': 0.229536761328489  }
+0 12 {'color': 'green', 'weight': 0.41964386927763186  }
+0 13 {'color': 'green', 'weight': 0.9494959332351275  }
+0 14 {'color': 'green', 'weight': 0.6786674382360257  }
+0 15 {'color': 'green', 'weight': 0.34843406885246686  }
+0 16 {'color': 'green', 'weight': 0.9373236417696313  }
+0 17 {'color': 'green', 'weight': 0.6122513521152445  }
+10 2 {'color': 'red'  }
+1 2 {'color': 'red'  }
+6 2 {'color': 'red'  }
+2 1 {'color': 'red'  }
+2 4 {'color': 'red'  }
+7 2 {'color': 'red'  }
+2 6 {'color': 'red'  }
+2 9 {'color': 'red'  }
+3 2 {'color': 'red'  }
+8 2 {'color': 'red'  }
+2 11 {'color': 'red'  }
+4 2 {'color': 'red'  }
+4 5 {'color': 'red'  }
+9 2 {'color': 'red'  }
+5 4 {'color': 'red'  }

@@ -1,0 +1,108 @@
+# Query: 12 1 15 9
+17 1 {'color': 'green', 'weight': 0.2473883089290032  }
+17 2 {'color': 'green', 'weight': 0.39098948344659823  }
+18 17 {'color': 'green', 'weight': 0.3037834718628345  }
+18 3 {'color': 'green', 'weight': 0.8944719900690284  }
+19 18 {'color': 'green', 'weight': 0.8993185977744043  }
+19 4 {'color': 'green', 'weight': 0.5713027396606181  }
+20 19 {'color': 'green', 'weight': 0.45001446998371164  }
+20 5 {'color': 'green', 'weight': 0.5784422665210245  }
+21 6 {'color': 'green', 'weight': 0.25856508569422376  }
+21 7 {'color': 'green', 'weight': 0.2334866198421124  }
+22 21 {'color': 'green', 'weight': 0.048787633414708494  }
+22 8 {'color': 'green', 'weight': 0.6226948228681746  }
+23 22 {'color': 'green', 'weight': 0.8068945268404905  }
+23 9 {'color': 'green', 'weight': 0.5476883937767407  }
+24 12 {'color': 'green', 'weight': 0.8993804028785128  }
+24 13 {'color': 'green', 'weight': 0.5111281516827154  }
+25 24 {'color': 'green', 'weight': 0.7864930363946077  }
+25 14 {'color': 'green', 'weight': 0.19510780830684027  }
+0 1 {'color': 'green', 'weight': 0.6516428805950597  }
+0 2 {'color': 'green', 'weight': 0.21560625649662388  }
+0 3 {'color': 'green', 'weight': 0.16606528831683384  }
+0 4 {'color': 'green', 'weight': 0.7642744235425953  }
+0 5 {'color': 'green', 'weight': 7.43480717086742E-4  }
+0 6 {'color': 'green', 'weight': 0.31386385059617616  }
+0 7 {'color': 'green', 'weight': 0.13269363807945533  }
+0 8 {'color': 'green', 'weight': 0.4519705075158513  }
+0 9 {'color': 'green', 'weight': 0.07763819838282794  }
+0 10 {'color': 'green', 'weight': 0.7427229133596347  }
+0 11 {'color': 'green', 'weight': 0.8436858279455315  }
+0 12 {'color': 'green', 'weight': 0.31152179567122906  }
+0 13 {'color': 'green', 'weight': 0.6983956307401972  }
+0 14 {'color': 'green', 'weight': 0.9258772723468606  }
+0 15 {'color': 'green', 'weight': 0.8303254930979341  }
+0 16 {'color': 'green', 'weight': 0.1264378211800985  }
+0 17 {'color': 'green', 'weight': 0.03671413320884343  }
+0 18 {'color': 'green', 'weight': 0.10174342934775193  }
+0 19 {'color': 'green', 'weight': 0.8912828057898113  }
+0 20 {'color': 'green', 'weight': 0.8578089208075248  }
+0 21 {'color': 'green', 'weight': 0.34131324056698314  }
+0 22 {'color': 'green', 'weight': 0.2691736780120052  }
+0 23 {'color': 'green', 'weight': 0.41173982688565314  }
+0 24 {'color': 'green', 'weight': 0.5121360214211677  }
+0 25 {'color': 'green', 'weight': 0.8438479108338621  }
+8 3 {'color': 'red'  }
+6 7 {'color': 'red'  }
+1 3 {'color': 'red'  }
+6 8 {'color': 'red'  }
+8 5 {'color': 'red'  }
+1 5 {'color': 'red'  }
+9 1 {'color': 'red'  }
+2 16 {'color': 'red'  }
+9 3 {'color': 'red'  }
+2 3 {'color': 'red'  }
+9 5 {'color': 'red'  }
+16 7 {'color': 'red'  }
+16 8 {'color': 'red'  }
+16 9 {'color': 'red'  }
+7 12 {'color': 'red'  }
+7 13 {'color': 'red'  }
+16 11 {'color': 'red'  }
+1 7 {'color': 'red'  }
+8 10 {'color': 'red'  }
+8 11 {'color': 'red'  }
+1 10 {'color': 'red'  }
+8 12 {'color': 'red'  }
+1 11 {'color': 'red'  }
+8 13 {'color': 'red'  }
+1 12 {'color': 'red'  }
+2 6 {'color': 'red'  }
+4 3 {'color': 'red'  }
+1 15 {'color': 'red'  }
+2 9 {'color': 'red'  }
+2 10 {'color': 'red'  }
+9 12 {'color': 'red'  }
+12 2 {'color': 'red'  }
+2 11 {'color': 'red'  }
+12 3 {'color': 'red'  }
+5 2 {'color': 'red'  }
+3 6 {'color': 'red'  }
+9 15 {'color': 'red'  }
+12 5 {'color': 'red'  }
+10 9 {'color': 'red'  }
+2 15 {'color': 'red'  }
+13 16 {'color': 'red'  }
+10 11 {'color': 'red'  }
+3 11 {'color': 'red'  }
+10 13 {'color': 'red'  }
+11 6 {'color': 'red'  }
+11 7 {'color': 'red'  }
+13 4 {'color': 'red'  }
+4 9 {'color': 'red'  }
+14 2 {'color': 'red'  }
+11 13 {'color': 'red'  }
+4 15 {'color': 'red'  }
+12 10 {'color': 'red'  }
+13 6 {'color': 'red'  }
+12 14 {'color': 'red'  }
+15 5 {'color': 'red'  }
+5 14 {'color': 'red'  }
+13 9 {'color': 'red'  }
+13 15 {'color': 'red'  }
+14 10 {'color': 'red'  }
+14 13 {'color': 'red'  }
+15 6 {'color': 'red'  }
+6 16 {'color': 'red'  }
+16 5 {'color': 'red'  }
+8 2 {'color': 'red'  }

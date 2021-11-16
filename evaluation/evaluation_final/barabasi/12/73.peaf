@@ -1,0 +1,45 @@
+# Query: 12 2 6 7 8 9 10 11
+13 2 {'color': 'green', 'weight': 0.03796219533152667  }
+13 3 {'color': 'green', 'weight': 0.8171564620404737  }
+14 13 {'color': 'green', 'weight': 0.9970184299382336  }
+14 4 {'color': 'green', 'weight': 0.7885693252016247  }
+15 14 {'color': 'green', 'weight': 0.3106231681840652  }
+15 5 {'color': 'green', 'weight': 0.02841671453320027  }
+16 8 {'color': 'green', 'weight': 0.7521515411614612  }
+16 9 {'color': 'green', 'weight': 0.6168125132471289  }
+17 11 {'color': 'green', 'weight': 0.1109716603920513  }
+17 12 {'color': 'green', 'weight': 0.08920959428699572  }
+0 1 {'color': 'green', 'weight': 0.27128088117936644  }
+0 2 {'color': 'green', 'weight': 0.35707432990085397  }
+0 3 {'color': 'green', 'weight': 0.6995216363898106  }
+0 4 {'color': 'green', 'weight': 0.3801012115328669  }
+0 5 {'color': 'green', 'weight': 0.5276002517931389  }
+0 6 {'color': 'green', 'weight': 0.9523748821317556  }
+0 7 {'color': 'green', 'weight': 0.5346347888017909  }
+0 8 {'color': 'green', 'weight': 0.07092023771222289  }
+0 9 {'color': 'green', 'weight': 0.05602335755839871  }
+0 10 {'color': 'green', 'weight': 0.02088193994445431  }
+0 11 {'color': 'green', 'weight': 0.7873586982318763  }
+0 12 {'color': 'green', 'weight': 0.9179629572935685  }
+0 13 {'color': 'green', 'weight': 0.5080190958654429  }
+0 14 {'color': 'green', 'weight': 0.1555913835807147  }
+0 15 {'color': 'green', 'weight': 0.7605209276516276  }
+0 16 {'color': 'green', 'weight': 0.5064965008016641  }
+0 17 {'color': 'green', 'weight': 0.20249893907342623  }
+1 5 {'color': 'red'  }
+1 8 {'color': 'red'  }
+3 1 {'color': 'red'  }
+7 6 {'color': 'red'  }
+1 11 {'color': 'red'  }
+3 4 {'color': 'red'  }
+6 12 {'color': 'red'  }
+4 3 {'color': 'red'  }
+1 2 {'color': 'red'  }
+2 1 {'color': 'red'  }
+9 5 {'color': 'red'  }
+5 1 {'color': 'red'  }
+5 6 {'color': 'red'  }
+5 9 {'color': 'red'  }
+10 6 {'color': 'red'  }
+6 5 {'color': 'red'  }
+11 1 {'color': 'red'  }
